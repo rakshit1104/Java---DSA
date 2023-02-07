@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/05-first-java-program/05-first-java-program.iml" filepath="$PROJECT_DIR$/Notes/DSA/05-first-java-program/05-first-java-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/07-methods/07-methods.iml" filepath="$PROJECT_DIR$/Notes/DSA/07-methods/07-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/08-arrays/08-arrays.iml" filepath="$PROJECT_DIR$/Notes/DSA/08-arrays/08-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/09-linear search/09-linear search.iml" filepath="$PROJECT_DIR$/Notes/DSA/09-linear search/09-linear search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.) Java First Program/1.) Java First Program.iml" filepath="$PROJECT_DIR$/1.) Java First Program/1.) Java First Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/10-binary search/10-binary search.iml" filepath="$PROJECT_DIR$/Notes/DSA/10-binary search/10-binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/11-sorting/11-sorting.iml" filepath="$PROJECT_DIR$/Notes/DSA/11-sorting/11-sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/12-strings/12-strings.iml" filepath="$PROJECT_DIR$/Notes/DSA/12-strings/12-strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/13-patterns/13-patterns.iml" filepath="$PROJECT_DIR$/Notes/DSA/13-patterns/13-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/14-recursion/14-recursion.iml" filepath="$PROJECT_DIR$/Notes/DSA/14-recursion/14-recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/15-complexity/15-complexity.iml" filepath="$PROJECT_DIR$/Notes/DSA/15-complexity/15-complexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/16-math/16-math.iml" filepath="$PROJECT_DIR$/Notes/DSA/16-math/16-math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/17-oop/17-oop.iml" filepath="$PROJECT_DIR$/Notes/DSA/17-oop/17-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/18-linkedlist/18-linkedlist.iml" filepath="$PROJECT_DIR$/Notes/DSA/18-linkedlist/18-linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/19-stacks-n-queues/19-stacks-n-queues.iml" filepath="$PROJECT_DIR$/Notes/DSA/19-stacks-n-queues/19-stacks-n-queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.) Conditions &amp; Loops/2.) Conditions &amp; Loops.iml" filepath="$PROJECT_DIR$/2.) Conditions &amp; Loops/2.) Conditions &amp; Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.) Switch Statements/3.) Switch Statements.iml" filepath="$PROJECT_DIR$/3.) Switch Statements/3.) Switch Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.) Functions - Methods/4.) Functions - Methods.iml" filepath="$PROJECT_DIR$/4.) Functions - Methods/4.) Functions - Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.) Arrays/5.) Arrays.iml" filepath="$PROJECT_DIR$/5.) Arrays/5.) Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java + DSA.iml" filepath="$PROJECT_DIR$/Java + DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS_cwh/OOPS_cwh.iml" filepath="$PROJECT_DIR$/OOPS_cwh/OOPS_cwh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/06-conditions-loops/code/code.iml" filepath="$PROJECT_DIR$/Notes/DSA/06-conditions-loops/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/05-first-java-program/first-idea-program/first-idea-program.iml" filepath="$PROJECT_DIR$/Notes/DSA/05-first-java-program/first-idea-program/first-idea-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/DSA/06-conditions-loops/switch/switch.iml" filepath="$PROJECT_DIR$/Notes/DSA/06-conditions-loops/switch/switch.iml" />
+    </modules>
+  </component>
+</project>
